@@ -63,5 +63,5 @@ ReconX offers the following powerful functionalities:
 
 # Tool CLI
 
-!(/Images/Link_scraper.png)
+![link scraper](/Images/Link_scraper.png)
 
