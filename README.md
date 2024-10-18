@@ -60,3 +60,8 @@ ReconX offers the following powerful functionalities:
 **Shodan Integration:** Query Shodan API to gather intelligence on IPs or domains.
 
 **Data Breach Detection:** Check if the target has been involved in known data breaches.
+
+# Tool CLI
+
+!(/Images/Link_scraper.png)
+
